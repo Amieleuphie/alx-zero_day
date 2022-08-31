@@ -1,1 +1,1 @@
-some text for this readme
+Amiel is using github
